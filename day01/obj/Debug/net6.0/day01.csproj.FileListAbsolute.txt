@@ -1,0 +1,17 @@
+D:\projects\advent-of-code-2021-core-sample\day01\bin\Debug\net6.0\day01.exe
+D:\projects\advent-of-code-2021-core-sample\day01\bin\Debug\net6.0\day01.deps.json
+D:\projects\advent-of-code-2021-core-sample\day01\bin\Debug\net6.0\day01.runtimeconfig.json
+D:\projects\advent-of-code-2021-core-sample\day01\bin\Debug\net6.0\day01.dll
+D:\projects\advent-of-code-2021-core-sample\day01\bin\Debug\net6.0\ref\day01.dll
+D:\projects\advent-of-code-2021-core-sample\day01\bin\Debug\net6.0\day01.pdb
+D:\projects\advent-of-code-2021-core-sample\day01\obj\Debug\net6.0\day01.GlobalUsings.g.cs
+D:\projects\advent-of-code-2021-core-sample\day01\obj\Debug\net6.0\day01.csproj.AssemblyReference.cache
+D:\projects\advent-of-code-2021-core-sample\day01\obj\Debug\net6.0\day01.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\advent-of-code-2021-core-sample\day01\obj\Debug\net6.0\day01.AssemblyInfoInputs.cache
+D:\projects\advent-of-code-2021-core-sample\day01\obj\Debug\net6.0\day01.AssemblyInfo.cs
+D:\projects\advent-of-code-2021-core-sample\day01\obj\Debug\net6.0\day01.csproj.CoreCompileInputs.cache
+D:\projects\advent-of-code-2021-core-sample\day01\obj\Debug\net6.0\day01.dll
+D:\projects\advent-of-code-2021-core-sample\day01\obj\Debug\net6.0\ref\day01.dll
+D:\projects\advent-of-code-2021-core-sample\day01\obj\Debug\net6.0\day01.pdb
+D:\projects\advent-of-code-2021-core-sample\day01\obj\Debug\net6.0\day01.genruntimeconfig.cache
+D:\projects\advent-of-code-2021-core-sample\day01\bin\Debug\net6.0\input.txt
