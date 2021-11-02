@@ -23,9 +23,9 @@ int GetTotalFuel(IEnumerable<int> input)
     return input.Sum(mass => ((mass / 3) - 2));
 }
 
-string filename = Environment.GetEnvironmentVariable("INPUT_DAY01_01") ?? "input.txt";
-string path = Path.Combine(Environment.CurrentDirectory, filename);
-var text = File.ReadAllLines(path);
+string filename = Environment.GetEnvironmentVariable("INPUT_DAY01_01") ??
+                  Path.Combine(Environment.CurrentDirectory, "input.txt");
+var text = File.ReadAllLines(filename);
 List<int> input = text.Select(int.Parse).ToList();
 
 Console.WriteLine(GetTotalFuel(input));
